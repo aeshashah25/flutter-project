@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568493832736",
+    "project_id": "stuattendance-2ebbd",
+    "storage_bucket": "stuattendance-2ebbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568493832736:android:bb403430a6d2dc93e01a45",
+        "android_client_info": {
+          "package_name": "com.example.t_att"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQWp_flytOxdBe_-yw3n7ASD5v1Zz0f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
